@@ -54,7 +54,7 @@ function CordialPerson(greeter) {
 
 // Principle 4
 
-jerry.speak.call(newman); newman.speak.apply(jerry); //<----- override CordialPeron's objects using call and apply
+jerry.speak.call(newman); newman.speak.apply(jerry); //<----- override CordialPerson's objects using call and apply
 
 
 // code example for Explicit Binding
